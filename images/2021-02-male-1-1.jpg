@@ -59,7 +59,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
             /* <![CDATA[ */
             var rcewpp = {
                 "ajax_url":"http://localhost/portfolio/wp-admin/admin-ajax.php",
-                "nonce": "951fdf3f4d",
+                "nonce": "fd96520b0c",
                 "home_url": "http://localhost/portfolio/",
                 "settings_icon": 'http://localhost/portfolio/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings.png',
                 "settings_hover_icon": 'http://localhost/portfolio/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings_hover.png'
